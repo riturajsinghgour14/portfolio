@@ -16,7 +16,7 @@ const Home = () => {
       <a href="https://github.com/riturajsinghgour14" target='_blank'><i className='bx bxl-github'></i></a>
       <a href="https://www.linkedin.com/in/rituraj-singh-gour-659b10293/" target='_blank'><i className='bx bxl-linkedin'></i></a>
       <a href="https://join.skype.com/invite/rBIGFUSme3rj" target='_blank'><i className='bx bxl-skype'></i></a>
-      <a href="mailto:riturajsinghgour@gmail.com" target='_blank'><i className='bx bxl-gmail'></i></a>
+      <a href="mailto:riturajsinghgour8827@gmail.com" target='_blank'><i className='bx bxl-gmail'></i></a>
       </span>
     
         {/* <a href="#about" className='btn-box'>More About Me</a> */}

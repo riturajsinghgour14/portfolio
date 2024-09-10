@@ -27,7 +27,7 @@ const Projects = () => {
         <img src={project2} alt="" />
         <div className="layer">
           <h4>FeedBack App</h4>
-          <p>Build using JavaScript, integrated Weather API using fetch method to fetch anywhere weather data..</p>
+          <p>Build using JavaScript, integrated Weather API using fetch method to fetch anywhere weather data.</p>
           <a href="https://riturajsinghgour14.github.io/feedbackapp/" target='_blank'><i className='bx bx-link-external'></i></a>
         </div>
       </div>
