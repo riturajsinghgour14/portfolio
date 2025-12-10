@@ -10,6 +10,8 @@ import express from '../assets/express.webp'
 import bootstrap from '../assets/bootstrap.png'
 import materialUI from '../assets/MaterialUI.svg'
 import tailwind from '../assets/Tailwind.png'
+import tanstack from '../assets/tanstack.png'
+
 
 const Skills = () => {
   return (
@@ -32,6 +34,10 @@ const Skills = () => {
           <div className="box">
             <img src={react} alt="" />
             <h4>React.js</h4>
+          </div>
+          <div className="box">
+            <img src={tanstack} alt="" />
+            <h4>Tanstack Query</h4>
           </div>
           <div className="box">
             <img src={redux} alt="" />

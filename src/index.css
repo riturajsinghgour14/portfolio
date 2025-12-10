@@ -13,6 +13,13 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.dropdown-menu {
+    display: none;
+  }
+  
+  .dropdown-menu.show {
+    display: block;
+  }
 
 #nav-list, .dropdown{
     display: none;
